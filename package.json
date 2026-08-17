@@ -1,5 +1,5 @@
 {
-  "name": "@tssuite/dna-guides",
+  "name": "@ggdna/dna-guides",
   "version": "0.0.0",
   "description": "DNA layer: rules for writing guides and documentation in our repos",
   "keywords": [

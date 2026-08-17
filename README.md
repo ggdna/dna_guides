@@ -13,7 +13,7 @@ The DNA layer that defines how guides and documentation are written.
 Declare it as a dev-dependency and initialize once:
 
 ```bash
-pnpm add -D @tssuite/dna-guides   # TypeScript projects
+pnpm add -D @ggdna/dna-guides   # TypeScript projects
 dart pub add dev:dna_guides    # Dart projects
 helix init
 ```
