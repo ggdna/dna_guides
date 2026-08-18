@@ -4,9 +4,9 @@ The DNA layer that defines how guides and documentation are written.
 
 ## Content
 
-- `dna/doc/en/guides/dna-guides-guide.md` — how to add a new guide to a
+- `dna/doc/guides/dna-guides-guide.md` — how to add a new guide to a
   DNA
-- `dna/doc/en/guides/doc-guide.md` — the writing style for guides
+- `dna/doc/guides/doc-guide.md` — the writing style for guides
 
 ## Usage
 
