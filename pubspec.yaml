@@ -1,6 +1,6 @@
 name: dna_guides
 description: "DNA layer: rules for writing guides and documentation in our repos"
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/ggdna/dna_guides.git
 
 environment:
