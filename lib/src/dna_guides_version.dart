@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_guides` package.
-const String dnaGuidesVersion = '0.1.1';
+const String dnaGuidesVersion = '0.1.2';
