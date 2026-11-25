@@ -14,6 +14,12 @@ The DNA layer that says how guides and documentation are written.
 - `/guide` — reports duplicated content and style breaks in the existing
   guides, and writes new ones
 
+## Publishing
+
+`dna/dot-pubignore` keeps `/doc/guides/` out of the package `dart pub publish`
+uploads. helix joins it with the ignore files of the other layers into the
+project's `.pubignore`.
+
 ## Layers
 
 Orthogonal: this layer carries only its own topic and is combined with
