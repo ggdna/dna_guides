@@ -12,4 +12,4 @@ gg dna build
 ```
 
 Then type `/guide` in Claude Code to write or check a guide in
-`doc/guides`.
+`doc/en/guides`, translated in `doc/de/guides` and `doc/fa/guides`.
