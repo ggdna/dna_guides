@@ -1,6 +1,6 @@
 {
   "name": "@ggdna/dna-guides",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "DNA layer: rules for writing guides and documentation in our repos",
   "keywords": [
     "dna",
