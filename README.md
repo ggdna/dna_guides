@@ -4,10 +4,16 @@ The DNA layer that says how guides and documentation are written.
 
 ## Guides
 
-- `dna/doc/guides/dna-guides-guide.md` — where a guide belongs and how it
+- `dna/doc/en/guides/dna-guides-guide.md` — where a guide belongs and how it
   is structured
-- `dna/doc/guides/doc-guide.md` — the writing style: imperative headings,
+- `dna/doc/en/guides/doc-guide.md` — the writing style: imperative headings,
   one step per line, commands in code blocks
+
+Every file of `dna/doc/en/` also ships in German and Farsi, with the
+same name:
+
+- `dna/doc/de/guides/`
+- `dna/doc/fa/guides/`
 
 ## Skills
 
@@ -16,7 +22,7 @@ The DNA layer that says how guides and documentation are written.
 
 ## Publishing
 
-`dna/dot-pubignore` keeps `/doc/guides/` out of the package `dart pub publish`
+`dna/dot-pubignore` keeps `/doc/*/guides/` out of the package `dart pub publish`
 uploads. helix joins it with the ignore files of the other layers into the
 project's `.pubignore`.
 
