@@ -16,7 +16,7 @@ found in the LICENSE file in the root of this package.
 Read `doc/guides/dna-guides-guide.md` and `doc/guides/doc-guide.md` and
 follow them.
 
-## 1. Check the guides that are there
+## @guides 1. Check the guides that are there
 
 Report guides that duplicate content instead of referencing each other.
 
@@ -25,13 +25,13 @@ Report headings that do not read as a summary when listed together.
 Report steps that span more than one line and prose where the imperative
 belongs.
 
-## 2. Write
+## @write 2. Write
 
 Put a new English guide in `dna/doc/guides`, a German one in
 `dna/doc/de/guides`.
 
 Keep it short, address the reader directly, one step per line.
 
-## 3. Show the result
+## @result 3. Show the result
 
 List every file you wrote, then let the user review before committing.
